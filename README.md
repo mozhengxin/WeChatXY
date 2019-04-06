@@ -9,4 +9,6 @@ xcode.cs源码暂时不放github了。如需要研究源码学习，请联系qq�
 # 声明
 仅供自己学习研究使用，引起任何法律纠纷概不负责
 # QQ交流群
-<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=c8ba88cf98ceff400b56732220c3b60fdf714b2f79852c854a3d11644b6a10a0"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="微信mac/ipad/android协议" title="微信mac/ipad/android协议"></a>
+<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=c8ba88cf98ceff400b56732220c3b60fdf714b2f79852c854a3d11644b6a10a0">微信mac/ipad/android协议QQ群></a><br/>
+![demo3](https://github.com/weixinbao/WeChatXY/blob/master/QQ.png) <br/>
+
