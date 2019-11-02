@@ -447,7 +447,7 @@ namespace Wechat
         {
             //最后一个参数是来源啊
             //1来源QQ2来源邮箱3来源微信号14群聊15手机号18附近的人25漂流瓶29摇一摇30二维码13来源通讯录
-            var VerifyUser = wechat.VerifyUser(MM.VerifyUserOpCode.MM_VERIFYUSER_SENDREQUEST, tb_Content.Text, tb_ToUsername.Text, tb_AtUserlist.Text, 0x0e);
+            var VerifyUser = wechat.VerifyUser(MM.VerifyUserOpCode.MM_VERIFYUSER_SENDREQUEST, tb_Content.Text, tb_ToUsername.Text, tb_AtUserlist.Text, 0x0f);
             put(JsonConvert.SerializeObject(VerifyUser));
         }
 
