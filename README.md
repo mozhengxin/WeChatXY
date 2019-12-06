@@ -15,7 +15,8 @@
 3.扫码登陆，之后调用/api/Login/CheckLogin/{uuid}，传入上个接口生成的Uuid，会返回wxId和用户信息<br/>
 4.后续通过wxId进行其他接口的调用<br/>
 # 接口文档
-![demo1](https://github.com/weixinbao/WeChatXY/blob/master/API.png) <br/>
+![demo1](https://github.com/weixinbao/WeChatXY/blob/master/API.png) 
+![demo1](https://github.com/weixinbao/WeChatXY/blob/master/API2.jpg) <br/>
 # 声明
 仅供自己学习研究使用，引起任何法律纠纷概不负责
 # QQ交流群
