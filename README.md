@@ -15,7 +15,7 @@
 10、新增设置群名称、设置自己在群里的昵称等群的操作、添加群好友请求、修改背景图、设置朋友圈可见天数、获取朋友圈视频、62和a16互转工具包、修改加好友需要验证属性、消息撤回、文件下载<br/>
 # 使用说明
 1.通过/api/Login/GetQrCode接口获取二维码，可以设置代理IP，如没有，可前三个参数都设置为""<br/>
-2.去http://imgbase64.duoshitong.com/ 进行base64转码，生成二维码图片<br/>
+2.去https://www.qvdv.com/tools/qvdv-img2base64.html 进行base64转码，生成二维码图片<br/>
 3.扫码登陆，之后调用/api/Login/CheckLogin/{uuid}，传入上个接口生成的Uuid，会返回wxId和用户信息<br/>
 4.后续通过wxId进行其他接口的调用<br/>
 # 接口文档
